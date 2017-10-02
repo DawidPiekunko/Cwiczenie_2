@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506950082 source:d:\dawidpiekunko\cwiczenie_1\cwiczenie_1\main.cpp
+	<iostream>
+	<windows.h>
+
